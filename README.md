@@ -65,7 +65,8 @@ THE MAIN OBJECTYIVE OF THE PROJECT IS  TO DEVELOP A MACHINE LEARNING MODEL FOR M
 
 # GRADIENT BOOSTING CLASSIFIER
 ![Image](https://github.com/user-attachments/assets/cc71f195-1191-4140-aec1-19e844247104)
-![Image](https://github.com/user-attachments/assets/0155aa60-0fb5-4a8f-a4a1-146668eaf00c
+![Image](https://github.com/user-attachments/assets/df9e2138-614c-4ccd-9c09-ba36194ac3f6)
+
 
 # EXTREME GRADIENT BOOSTING CLASSIFIER
 ![Image](https://github.com/user-attachments/assets/3fc5fba6-3e63-407b-9bf5-4b964f9b64f1)
